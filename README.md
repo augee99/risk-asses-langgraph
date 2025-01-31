@@ -26,6 +26,7 @@ cp .env.example .env
 ## How to customize
 
 1. **Select a different model**: We default to Anthropic's Claude 3.5 Sonnet. Change the llm statement to intrdouce other LLMs.
+2. Change the credit report path - pdf_path = "/home/sagemaker-user/langgraph/lang-risk-assess/src/creditReport.pdf" 
 
 ## How to run
 
